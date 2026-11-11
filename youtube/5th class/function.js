@@ -38,3 +38,14 @@ myFastFunction()
 
 
 
+
+/*
+function myChat (msg, num){
+    console.log(msg, num)
+}
+
+myChat("hi nothing", "029394839")
+*/
+
+
+
