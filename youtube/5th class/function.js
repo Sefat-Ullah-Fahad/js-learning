@@ -13,10 +13,28 @@
 // myFunction(20)
 
 
-function sum(a, b){
-    su = a + b
-    return su
+// function sum(a, b){
+//     su = a + b
+//     return su
+// }
+
+// let valu = sum(2, 4)
+// console.log(valu)
+
+
+
+// $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+/*
+function myFastFunction (){
+    console.log("i am fahad")
+    console.log("we learn js")
 }
 
-let valu = sum(2, 4)
-console.log(valu)
+myFastFunction() 
+myFastFunction() 
+
+*/
+
+
+
